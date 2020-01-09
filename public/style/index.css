@@ -1,0 +1,22 @@
+section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    height: auto;
+}
+article {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 0;
+    width: 250px;
+    height: 450px;
+}
+article img {
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+}
